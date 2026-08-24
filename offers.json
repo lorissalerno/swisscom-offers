@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T04:44:03.826Z",
+  "scraped_at": "2026-08-24T04:53:18.586Z",
   "pages": [
     "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari.html",
     "https://www.swisscom.ch/it/clienti-privati/abbonamento-internet/sicuro-in-modo-digitale.html",
@@ -14,7 +14,7 @@
     "mysecurity",
     "tv"
   ],
-  "total_matches": 15,
+  "total_matches": 16,
   "total_matches_before_filter": 107,
   "offers": [
     {
@@ -91,8 +91,17 @@
     },
     {
       "keyword": "tv",
-      "title": "Il miglior abbonamento Internet e la TV più amata Internet e TV 1 anno da 39.90/mese All’offerta",
-      "snippet": "Il miglior abbonamento Internet e la TV più amata Internet e TV 1 anno da 39.90/mese All’offerta",
+      "title": "Offerta limitata – Internet e TV da 39.90/mese con Cashback di 100.–",
+      "snippet": "Offerta limitata – Internet e TV da 39.90/mese con Cashback di 100.–",
+      "promo": null,
+      "price": "da 39.90/mese",
+      "link": "https://www.swisscom.ch/it/clienti-privati/offerte.html#mobileJump",
+      "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv.html"
+    },
+    {
+      "keyword": "tv",
+      "title": "Durata limitata Internet e TV 1 anno a partire da 39.90/mese All’offerta",
+      "snippet": "Durata limitata Internet e TV 1 anno a partire da 39.90/mese All’offerta",
       "promo": null,
       "price": "da 39.90/mese",
       "link": "https://www.swisscom.ch/it/clienti-privati/abbonamento-combinato/promotion.html",
@@ -100,8 +109,8 @@
     },
     {
       "keyword": "tv",
-      "title": "Internet e TV 1 anno da 39.90/mese",
-      "snippet": "Il miglior abbonamento Internet e la TV più amata Internet e TV 1 anno da 39.90/mese",
+      "title": "Internet e TV 1 anno a partire da 39.90/mese",
+      "snippet": "Internet e TV 1 anno a partire da 39.90/mese",
       "promo": null,
       "price": "da 39.90/mese",
       "link": null,
