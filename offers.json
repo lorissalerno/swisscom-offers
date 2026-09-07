@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T08:34:36.214Z",
+  "scraped_at": "2026-09-07T09:13:00.651Z",
   "pages": [
     "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari.html",
     "https://www.swisscom.ch/it/clienti-privati/abbonamento-internet/sicuro-in-modo-digitale.html",
@@ -14,8 +14,8 @@
     "mysecurity",
     "tv"
   ],
-  "total_matches": 16,
-  "total_matches_before_filter": 107,
+  "total_matches": 15,
+  "total_matches_before_filter": 110,
   "offers": [
     {
       "keyword": "blue binge",
@@ -91,28 +91,19 @@
     },
     {
       "keyword": "tv",
-      "title": "Fino al 06.09. – Internet e TV da 39.90/mese con Cashback di 100.–",
-      "snippet": "Fino al 06.09. – Internet e TV da 39.90/mese con Cashback di 100.–",
+      "title": "Il miglior abbonamento Internet e la TV più amata Internet e TV per 1 anno a 39.90/mese All'offerta",
+      "snippet": "Il miglior abbonamento Internet e la TV più amata Internet e TV per 1 anno a 39.90/mese All'offerta",
       "promo": null,
-      "price": "da 39.90/mese",
-      "link": "https://www.swisscom.ch/it/clienti-privati/offerte.html#mobileJump",
-      "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv.html"
-    },
-    {
-      "keyword": "tv",
-      "title": "Fino al 06.09. Internet e TV 1 anno a partire da 39.90/mese All’offerta",
-      "snippet": "Fino al 06.09. Internet e TV 1 anno a partire da 39.90/mese All’offerta",
-      "promo": null,
-      "price": "da 39.90/mese",
+      "price": "39.90/mese",
       "link": "https://www.swisscom.ch/it/clienti-privati/abbonamento-combinato/promotion.html",
       "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv.html"
     },
     {
       "keyword": "tv",
-      "title": "Internet e TV 1 anno a partire da 39.90/mese",
-      "snippet": "Internet e TV 1 anno a partire da 39.90/mese",
+      "title": "Internet e TV per 1 anno a 39.90/mese",
+      "snippet": "Il miglior abbonamento Internet e la TV più amata Internet e TV per 1 anno a 39.90/mese",
       "promo": null,
-      "price": "da 39.90/mese",
+      "price": "39.90/mese",
       "link": null,
       "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv.html"
     },
