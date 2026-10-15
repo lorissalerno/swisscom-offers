@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T09:24:41.893Z",
+  "scraped_at": "2026-10-15T09:03:10.179Z",
   "pages": [
     "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari.html",
     "https://www.swisscom.ch/it/clienti-privati/abbonamento-internet/sicuro-in-modo-digitale.html",
@@ -14,43 +14,34 @@
     "mysecurity",
     "tv"
   ],
-  "total_matches": 13,
-  "total_matches_before_filter": 107,
+  "total_matches": 12,
+  "total_matches_before_filter": 124,
   "offers": [
     {
       "keyword": "blue binge",
-      "title": "blue Binge:",
-      "snippet": "blue Binge: il pacchetto di base per chi ama lo streaming – film e serie a non finire su Netflix e Disney+ a un imbattibile prezzo agevolato con uno sconto permanente del 21%.",
-      "promo": "sconto permanente del 21%",
-      "price": null,
-      "link": null,
-      "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari.html"
-    },
-    {
-      "keyword": "tv",
-      "title": "Disponibile con blue TV M, L & XL",
-      "snippet": "Disponibile con blue TV M, L & XL 8.90/mese",
+      "title": "Logo blue Binge",
+      "snippet": "blue Binge: La base ottimale per tutti gli appassionati di streaming. Abbonamento annuale 24.90/mese Sconto permanente del 21 % Incluso nel pacchetto Netflix Base Disney+ Standard",
       "promo": null,
-      "price": "8.90/mese",
+      "price": "24.90/mese",
       "link": null,
-      "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari.html"
-    },
-    {
-      "keyword": "disney",
-      "title": "Logo Disneyplus",
-      "snippet": "Disney+: Intrattenimento senza sosta con i grandi film appena usciti e un’infinità di serie firmate Disney, Pixar, Marvel, Star Wars, National Geographic e Star. Da 9.90/mese Scelga il pacchetto",
-      "promo": null,
-      "price": "Da 9.90/mese",
-      "link": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari/disneyplus.html",
       "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari.html"
     },
     {
       "keyword": "netflix",
       "title": "Logo Netflix",
-      "snippet": "Netflix: Netflix propone un catalogo sconfinato di film, documentari, serie, anime, premiati originali Netflix e molto altro. Guardate quello che volete, quanto e quando volete. Da 14.90/mese Scelga il pacchetto",
+      "snippet": "Netflix: Ampia selezione di film, pluripremiati Netflix Originals e molto altro. Da 14.90/mese",
       "promo": null,
       "price": "Da 14.90/mese",
-      "link": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari/netflix.html",
+      "link": null,
+      "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari.html"
+    },
+    {
+      "keyword": "disney",
+      "title": "Logo Disney+",
+      "snippet": "Disney+: Intrattenimento senza sosta con gli ultimi successi e tantissime serie. Da 9.90/mese",
+      "promo": null,
+      "price": "Da 9.90/mese",
+      "link": null,
       "found_on_page": "https://www.swisscom.ch/it/clienti-privati/abbonamento-tv/pacchetti-supplementari.html"
     },
     {
